@@ -6,3 +6,6 @@
 *.csproj
 *.unityproj
 *.sln
+
+# Ignore all emacs backup files
+*~
